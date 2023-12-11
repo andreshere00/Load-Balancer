@@ -1,6 +1,6 @@
 # Andres Herencia Lopez-Menchero
-# Patricia Fernandez Sastre
-# Fernando Herrera Pozo
+# Autor 2
+# Autor 3
 
 #########################################################
 ################# PRÁCTICA CREATIVA 1 ###################
